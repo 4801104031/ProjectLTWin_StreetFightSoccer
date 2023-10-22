@@ -1,0 +1,10 @@
+C:\Users\quang\source\WinForm\Game_1\Game_1\bin\Debug\Game_1.exe.config
+C:\Users\quang\source\WinForm\Game_1\Game_1\bin\Debug\Game_1.exe
+C:\Users\quang\source\WinForm\Game_1\Game_1\bin\Debug\Game_1.pdb
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.csproj.AssemblyReference.cache
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.Form1.resources
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.Properties.Resources.resources
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.csproj.GenerateResource.cache
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.csproj.CoreCompileInputs.cache
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.exe
+C:\Users\quang\source\WinForm\Game_1\Game_1\obj\Debug\Game_1.pdb
